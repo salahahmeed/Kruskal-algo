@@ -1,0 +1,14 @@
+F:\S A LA H\c++ pro\Kruskalalgo\Kruskalalgo\bin\Debug\netcoreapp3.1\Kruskalalgo.exe
+F:\S A LA H\c++ pro\Kruskalalgo\Kruskalalgo\bin\Debug\netcoreapp3.1\Kruskalalgo.deps.json
+F:\S A LA H\c++ pro\Kruskalalgo\Kruskalalgo\bin\Debug\netcoreapp3.1\Kruskalalgo.runtimeconfig.json
+F:\S A LA H\c++ pro\Kruskalalgo\Kruskalalgo\bin\Debug\netcoreapp3.1\Kruskalalgo.runtimeconfig.dev.json
+F:\S A LA H\c++ pro\Kruskalalgo\Kruskalalgo\bin\Debug\netcoreapp3.1\Kruskalalgo.dll
+F:\S A LA H\c++ pro\Kruskalalgo\Kruskalalgo\bin\Debug\netcoreapp3.1\Kruskalalgo.pdb
+F:\S A LA H\c++ pro\Kruskalalgo\Kruskalalgo\obj\Debug\netcoreapp3.1\Kruskalalgo.csproj.AssemblyReference.cache
+F:\S A LA H\c++ pro\Kruskalalgo\Kruskalalgo\obj\Debug\netcoreapp3.1\Kruskalalgo.GeneratedMSBuildEditorConfig.editorconfig
+F:\S A LA H\c++ pro\Kruskalalgo\Kruskalalgo\obj\Debug\netcoreapp3.1\Kruskalalgo.AssemblyInfoInputs.cache
+F:\S A LA H\c++ pro\Kruskalalgo\Kruskalalgo\obj\Debug\netcoreapp3.1\Kruskalalgo.AssemblyInfo.cs
+F:\S A LA H\c++ pro\Kruskalalgo\Kruskalalgo\obj\Debug\netcoreapp3.1\Kruskalalgo.csproj.CoreCompileInputs.cache
+F:\S A LA H\c++ pro\Kruskalalgo\Kruskalalgo\obj\Debug\netcoreapp3.1\Kruskalalgo.dll
+F:\S A LA H\c++ pro\Kruskalalgo\Kruskalalgo\obj\Debug\netcoreapp3.1\Kruskalalgo.pdb
+F:\S A LA H\c++ pro\Kruskalalgo\Kruskalalgo\obj\Debug\netcoreapp3.1\Kruskalalgo.genruntimeconfig.cache
